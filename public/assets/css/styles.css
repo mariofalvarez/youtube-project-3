@@ -1,0 +1,21 @@
+#root {
+    background: #1d1d1d;
+    min-height: 100vh;
+}
+
+.App {
+    background-color: #242424;
+    min-height: 100vh;
+}
+
+.borderDefault {
+    border: solid 1px #383838;
+}
+
+.title {
+    color: azure;
+}
+
+.publishedAt {
+    color: rgb(155, 155, 155);
+}
